@@ -99,9 +99,11 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ### MainActivity.java
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36eee177-f73e-4579-a7b5-a1bd0698eef8" /><br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/429b55fb-4027-46a6-97bc-9cc86ee76dee" />
+<br>
 ### activity_main.xml
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93994e93-f5df-404d-b872-128786227afc" /><br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b50e0d1-098e-4f77-a9bb-d1edfb40bd5f" />
+<br>
 ### Output Graphics
 <img width="387" height="802" alt="image" src="https://github.com/user-attachments/assets/beb794d2-caea-45c0-ac18-2825d6bf03df" /><br>
 ## RESULT
