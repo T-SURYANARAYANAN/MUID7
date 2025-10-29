@@ -99,10 +99,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ### MainActivity.java
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36eee177-f73e-4579-a7b5-a1bd0698eef8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36eee177-f73e-4579-a7b5-a1bd0698eef8" /><br>
 ### activity_main.xml
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93994e93-f5df-404d-b872-128786227afc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93994e93-f5df-404d-b872-128786227afc" /><br>
 ### Output Graphics
-<img width="387" height="802" alt="image" src="https://github.com/user-attachments/assets/beb794d2-caea-45c0-ac18-2825d6bf03df" />
+<img width="387" height="802" alt="image" src="https://github.com/user-attachments/assets/beb794d2-caea-45c0-ac18-2825d6bf03df" /><br>
 ## RESULT
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
