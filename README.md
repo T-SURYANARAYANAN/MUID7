@@ -11,7 +11,7 @@ To create and design an android application that draws basic graphical primitive
 Android Studio(Latest Version)
 
 ## ALGORITHM
-```
+```txt
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 Step 2: Then type the Application name as “graphical″ and click Next. 
 Step 3: Then select the Minimum SDK as shown below and click Next.
@@ -21,7 +21,7 @@ Step 6: Draw basic object details give in MainActivity file.
 Step 7: Save and run the application.
 ```
 ## PROGRAM
-```
+```txt
 Program to create and design an android application that draws basic graphical primitives on the screen.
 Developed by: SURYANARAYANAN T
 Registeration Number :212224040341
